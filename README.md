@@ -50,7 +50,7 @@ Then, go to the [IBM Cloud Dashboard](https://console.bluemix.net/dashboard/apps
 server application's endpoint. Once you done that, you can move on to [Step 3](#3-create-the-mobile-application-and-connect-it-to-the-server)
 and deploy your mobile application.
 
-[![Deploy to IBM Cloud](https://bluemix.net/deploy/button.png)](https://console.ng.bluemix.net/devops/setup/deploy/?repository=https://github.com/IBM/watson-waste-sorter)
+[![Deploy to IBM Cloud](https://bluemix.net/deploy/button.png)](https://console.ng.bluemix.net/devops/setup/deploy/?repository=https://github.com/expzonechennai1//watson-waste-sorter)
 
 ## 1. Create your custom visual recognition model
 
